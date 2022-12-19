@@ -1,0 +1,138 @@
+header {
+  background-color: gray;
+  width: 815px;
+  height: 100px;
+}
+
+body {
+  background-color: black;
+}
+
+footer {
+  background-color: #B0C4DE;
+  height: 100px;
+  width: 815px;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+  text-shadow: 4px 4px #000000;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.tabel {
+  width: 100%;
+}
+
+td {
+  width: 200px;
+  height: 150px;
+  text-align: center;
+}
+
+/* Achtergrondkleur tekst */
+
+.a1 {
+  background-color: gold;
+}
+
+.c1 {
+  background-color: pink;
+}
+
+.a2 {
+  background-color: lightblue;
+}
+
+.c2 {
+  background-color: green;
+}
+
+.a3 {
+  background-color: magenta;
+}
+
+.c3 {
+  background-color: pink;
+}
+
+.a4 {
+  background-color: gray;
+}
+
+.c4 {
+  background-color: olive;
+}
+
+/* Achtergrondkleur tabel */
+
+#A1 {
+  background-color: red;
+}
+
+#A2 {
+  background-color: blue;
+}
+
+#A3 {
+  background-color: purple;
+}
+
+#A4 {
+  background-color: pink;
+}
+
+#B1 {
+  background-color: #F08080;
+}
+
+#B2 {
+  background-color: #8000008B;
+}
+
+#B3 {
+  background-color: #80800080;
+}
+
+#B4 {
+  background-color: #CCFFC0CB;
+}
+
+#C1 {
+  background-color: green;
+}
+
+#C2 {
+  background-color: yellow;
+}
+
+#C3 {
+  background-color: orange;
+}
+
+#C4 {
+  background-color: brown;
+}
+
+#D1 {
+  background-color: #808000;
+}
+
+#D2 {
+  background-color: #F0E68C;
+}
+
+#D3 {
+  background-color: #FF7F50;
+}
+
+#D4 {
+  background-color: #D2B48C;
+}
